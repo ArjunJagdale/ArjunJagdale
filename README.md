@@ -1,4 +1,4 @@
-## Hi there 👋, Myself Arjun Jagdale
+## Hi there 👋, Myself Arjun Dinesh Jagdale
 
 - 🔭 I’m currently working on Data Science projects
 - 🌱 I’m currently learning Python and Data science
