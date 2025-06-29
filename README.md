@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F64C72&center=true&vCenter=true&width=500&lines=I+am+an+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=I+am+an+AI+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,35 +16,41 @@ My workflow blends fast iteration, clean architecture, and collaborative problem
 
 ---
 
+## 🧰 Tech Stack
+
+**Languages:** Python, JavaScript/Node.js  
+**ML/AI:** PyTorch, scikit-learn, Hugging Face, AutoAI, LangChain  
+**Cloud:** IBM Cloud, Google Cloud, AWS, Docker, Kubernetes  
+**Tools:** Git, VS Code, GitHub Actions, Linux CLI  
+
+---
+
 ## 🚀 Open Source
-Checkout my PRs here ->
-[![Hugging Face PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-F64C72?logo=github&logoColor=white)](https://github.com/huggingface/datasets/pulls?q=is%3Apr+author%3AArjunJagdale)
+Checkout my huggingface/datasets PRs here ->
+
+[![Hugging Face PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-7aa2f7?logo=github&logoColor=white&labelColor=1a1b26)](https://github.com/huggingface/datasets/pulls?q=is%3Apr+author%3AArjunJagdale)
+
 
 ---
 
-## 🛠️ Latest Open Source Work
-
-<!-- This section is auto-generated -->
-
-(loading...)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
+## 📊 GitHub Stats
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ArjunJagdale&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true&hide=contribs,issues,prs" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=ArjunJagdale&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ArjunJagdale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=contribs,issues,prs" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ArjunJagdale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunJagdale&layout=compact&theme=radical&hide_border=true&hide=cpp" alt="Top Languages" /></td>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunJagdale&layout=compact&theme=tokyonight&hide_border=true&hide=c" alt="Top Languages" />
+    </td>
   </tr>
 </table>
 
-</div>
 
 ---
 
