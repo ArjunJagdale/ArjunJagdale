@@ -22,6 +22,14 @@ Checkout my PRs here ->
 
 ---
 
+## 🛠️ Latest Open Source Work
+
+<!-- This section is auto-generated -->
+
+(loading...)
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
