@@ -1,11 +1,12 @@
 const fs = require("fs");
-const fetch = require("node-fetch");
 
+const SECTION_HEADER = "## 🛠️ Latest Open Source Work";
 const USERNAME = "ArjunJagdale";
 const REPO = "huggingface/datasets";
-const SECTION_HEADER = "## 🛠️ Latest Open Source Work";
 
 (async () => {
+  const fetch = (await import("node-fetch")).default;
+
   const res = await fetch(`https://api.github.com/search/issues?q=type:pr+author:${USERNAME}+repo:${REPO}+is:public&sort=created&order=desc`);
   const data = await res.json();
 
