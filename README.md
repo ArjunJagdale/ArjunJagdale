@@ -36,8 +36,6 @@ Checkout my huggingface/datasets PRs here ->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunJagdale&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
-## 🐍 GitHub Contribution Graph
-
 <div align="center">
 
 <img src="https://github.com/ArjunJagdale/ArjunJagdale/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
