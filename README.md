@@ -19,6 +19,13 @@ My workflow blends fast iteration, clean architecture, and collaborative problem
 You can access my Open-Source PRs here -
 [![Hugging Face PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-orange?logo=github&logoColor=white)](https://github.com/huggingface/datasets/pulls?q=is%3Apr+author%3AArjunJagdale)
 
+
+![PRs](https://img.shields.io/badge/PRs-Open%20Source%20Contributor-0A0F0D?style=for-the-badge&logo=github&logoColor=white&color=58A6FF)
+![Issues](https://img.shields.io/badge/Issues-Fixed%20Real%20Bugs-0A0F0D?style=for-the-badge&logo=bugatti&logoColor=white&color=F64C72)
+![Stars](https://img.shields.io/github/stars/ArjunJagdale?style=for-the-badge&logo=github&color=FFD700)
+
+
+
 ## 📫 Reach Me
 - GitHub: [@ArjunJagdale](https://github.com/ArjunJagdale)
 - LinkedIn: [arjunjagdale](https://linkedin.com/in/arjun-jagdale)
