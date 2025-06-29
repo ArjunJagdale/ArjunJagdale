@@ -32,27 +32,9 @@ Checkout my huggingface/datasets PRs here ->
 
 
 ---
-
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ArjunJagdale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=contribs,issues,prs" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ArjunJagdale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunJagdale&layout=compact&theme=tokyonight&hide_border=true&hide=c" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunJagdale&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 ## 🐍 GitHub Contribution Graph
 
