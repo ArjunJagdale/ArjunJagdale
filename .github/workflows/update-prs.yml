@@ -29,8 +29,8 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "ArjunJagdale"
+          git config user.email "vvcxlight@gmail.com"  # Can be any GitHub-verified email
           git add README.md
           git commit -m "chore: update recent PRs" || echo "No changes to commit"
-          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
+          git push https://x-access-token:${GH_PAT}@github.com/ArjunJagdale/ArjunJagdale.git HEAD:main
