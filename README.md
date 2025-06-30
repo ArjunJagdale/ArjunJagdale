@@ -32,9 +32,10 @@ Checkout my huggingface/datasets PRs here ->
 
 
 ---
-<!-- PRS:START -->
-... content injected here ...
-<!-- PRS:END -->
+## 🛠️ Latest Open Source Work
+
+<!-- The section will be dynamically updated -->
+
 
 ---
 ## 📊 GitHub Stats
