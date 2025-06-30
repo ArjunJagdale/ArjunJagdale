@@ -31,9 +31,5 @@ jobs:
           git config user.email "vvcxlight@gmail.com"
           git add README.md
           git commit -m "chore: update recent PRs" || echo "No changes to commit"
-          
-          # 💥 Override remote with PAT
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/ArjunJagdale/ArjunJagdale.git
-          
-          # ✅ Force push using PAT (not the bot)
           git push origin HEAD:main
