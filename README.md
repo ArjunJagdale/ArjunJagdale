@@ -30,22 +30,11 @@ Checkout my huggingface/datasets PRs here ->
 
 [![Hugging Face PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-7aa2f7?logo=github&logoColor=white&labelColor=1a1b26)](https://github.com/huggingface/datasets/pulls?q=is%3Apr+author%3AArjunJagdale)
 
-
----
-## 🛠️ Latest Open Source Work
-
-<!-- Will be replaced with latest PRs -->
-
-
----
-## 📊 GitHub Stats
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunJagdale&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+### 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunJagdale&show_icons=true&theme=tokyonight&hide=stars,prs_reviewed,issues,contribs,discussions,followers&custom_title=Arjun+Jagdale's+GitHub+Stats)](https://github.com/ArjunJagdale)
 
 <div align="center">
-
-<img src="https://github.com/ArjunJagdale/ArjunJagdale/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunJagdale&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
