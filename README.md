@@ -19,7 +19,7 @@ My workflow blends fast iteration, clean architecture, and collaborative problem
 ## 🧰 Tech Stack
 
 **Languages:** Python, JavaScript/Node.js  
-**ML/AI:** PyTorch, scikit-learn, Hugging Face, AutoAI, LangChain  
+**ML/AI:** PyTorch, scikit-learn, HuggingFace, Transformers, AutoAI, LangChain, Smol-agents, LlamaIndex
 **Cloud:** IBM Cloud, Google Cloud, AWS, Docker, Kubernetes  
 **Tools:** Git, VS Code, GitHub Actions, Linux CLI  
 
