@@ -3,7 +3,7 @@ import os
 import re
 
 GH_USERNAME = os.getenv("GH_USERNAME", "ArjunJagdale")
-GH_TOKEN = os.getenv("GH_TOKEN")
+GH_TOKEN = os.getenv("GH_PAT")  # ✅ Match your GitHub Actions secret
 
 headers = {"Authorization": f"token {GH_TOKEN}"} if GH_TOKEN else {}
 
