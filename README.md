@@ -34,7 +34,7 @@ Checkout my huggingface/datasets PRs here ->
 ---
 ## 🛠️ Latest Open Source Work
 
-<!-- The section will be dynamically updated -->
+<!-- Will be replaced with latest PRs -->
 
 
 ---
