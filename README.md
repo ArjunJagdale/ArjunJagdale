@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=I+am+an+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+am+an+AI+Engineer;Open+Source+Contributor;Cloud-Native+ML+Engineer)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -18,15 +19,40 @@ My workflow blends fast iteration, clean architecture, and collaborative problem
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, JavaScript/Node.js  
-**ML/AI:** PyTorch, scikit-learn, HuggingFace, Transformers, AutoAI, LangChain, Smol-agents, LlamaIndex
-**Cloud:** IBM Cloud, Google Cloud, AWS, Docker, Kubernetes  
-**Tools:** Git, VS Code, GitHub Actions, Linux CLI  
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  
+  <!-- ML/AI -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge&logo=transformers&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoAI-2f2f2f?style=for-the-badge&logo=ibm&logoColor=blue" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-1A1B26?style=for-the-badge&logo=llama&logoColor=white" />
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
 
 ---
 
 ## 🚀 Open Source
-Checkout my huggingface/datasets PRs here ->
+
+I actively contribute to [huggingface/datasets](https://github.com/huggingface/datasets), focusing on iterable datasets, configuration logic, and core performance enhancements.
 
 [![Hugging Face PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-7aa2f7?logo=github&logoColor=white&labelColor=1a1b26)](https://github.com/huggingface/datasets/pulls?q=is%3Apr+author%3AArjunJagdale)
 
@@ -39,10 +65,17 @@ Checkout my huggingface/datasets PRs here ->
 
 ---
 
-## 📫 Reach Me
-- GitHub: [@ArjunJagdale](https://github.com/ArjunJagdale)
-- LinkedIn: [arjunjagdale](https://linkedin.com/in/arjun-jagdale)
+### 📫 Reach Me
+<p align="left">
+  <a href="https://github.com/ArjunJagdale"><img src="https://img.shields.io/badge/GitHub-ArjunJagdale-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align='left'>
+  <a href="https://linkedin.com/in/arjun-jagdale"><img src="https://img.shields.io/badge/LinkedIn-arjun--jagdale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+<p align='left'>
+  <a href="mailto:arjunjagdale14@gmail.com"><img src="https://img.shields.io/badge/Email-arjunjagdale14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Also don't forget to check my pinned projects below!
+Don’t miss my pinned projects below — they showcase real-world applications of ML + cloud-native engineering!
 
 ---
