@@ -54,7 +54,9 @@ My workflow blends fast iteration, clean architecture, and collaborative problem
 
 I actively contribute to [huggingface/datasets](https://github.com/huggingface/datasets), focusing on iterable datasets, configuration logic, and core performance enhancements.
 
-[![Hugging Face PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-7aa2f7?logo=github&logoColor=white&labelColor=1a1b26)](https://github.com/huggingface/datasets/pulls?q=is%3Apr+author%3AArjunJagdale)
+[![Hugging Face Datasets PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-7aa2f7?logo=github&logoColor=white&labelColor=1a1b26)](https://github.com/huggingface/datasets/pulls?q=is%3Apr+author%3AArjunJagdale)
+
+[![Hugging Face Dataset-viewer PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-7aa2f7?logo=github&logoColor=white&labelColor=1a1b26)](https://github.com/huggingface/dataset-viewer/pulls?q=is%3Apr+author%3AArjunJagdale)
 
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunJagdale&show_icons=true&theme=tokyonight&hide=stars,prs_reviewed,issues,contribs,discussions,followers&custom_title=Arjun+Jagdale's+GitHub+Stats)](https://github.com/ArjunJagdale)
