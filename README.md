@@ -7,6 +7,8 @@
 
 ---
 
+[![With this, your badge will display exactly as before, but when clicked, it opens the correct PR on GitHub. #3223](https://pr-req-io.vercel.app/api/badge?title=With%20this%2C%20your%20badge%20will%20display%20exactly%20as%20before%2C%20but%20when%20clicked%2C%20it%20opens%20the%20correct%20PR%20on%20GitHub.&repo=huggingface%2Fdataset-viewer&number=%233223&status=MERGED&date=Jul%2028)](https://github.com/huggingface/dataset-viewer/pull/3223)
+
 ## 👋 Hi, I'm Arjun
 
 I'm an AI engineer and open-source contributor focused on machine learning systems, tooling, and research-backed development.  
