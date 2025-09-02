@@ -7,8 +7,6 @@
 
 ---
 
-[![With this, your badge will display exactly as before, but when clicked, it opens the correct PR on GitHub. #3223](https://pr-req-io.vercel.app/api/badge?title=With%20this%2C%20your%20badge%20will%20display%20exactly%20as%20before%2C%20but%20when%20clicked%2C%20it%20opens%20the%20correct%20PR%20on%20GitHub.&repo=huggingface%2Fdataset-viewer&number=%233223&status=MERGED&date=Jul%2028)](https://github.com/huggingface/dataset-viewer/pull/3223)
-
 ## 👋 Hi, I'm Arjun
 
 I'm an AI engineer and open-source contributor focused on machine learning systems, tooling, and research-backed development.  
@@ -56,9 +54,18 @@ My workflow blends fast iteration, clean architecture, and collaborative problem
 
 I actively contribute to Huggingface, focusing on iterable datasets, configuration logic, and core performance enhancements.
 
-- Huggingface Datasets - [![Hugging Face Datasets PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-7aa2f7?logo=github&logoColor=white&labelColor=1a1b26)](https://github.com/huggingface/datasets/pulls?q=is%3Apr+author%3AArjunJagdale)
+[![ Add support for Date features in Croissant schema](https://pr-req-io.vercel.app/api/badge?title=%20Add%20support%20for%20Date%20features%20in%20Croissant%20schema&repo=huggingface%2Fdataset-viewer&number=3223&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/dataset-viewer/pull/3223)
 
-- Huggingface Dataset-Viewer - [![Hugging Face Dataset-viewer PRs](https://img.shields.io/badge/HuggingFace-My%20Pull%20Requests-7aa2f7?logo=github&logoColor=white&labelColor=1a1b26)](https://github.com/huggingface/dataset-viewer/pulls?q=is%3Apr+author%3AArjunJagdale)
+[![refactor(config): replace get_empty_str_list with CONSTANT.copy in ParquetAndInfoConfig (#1522) ](https://pr-req-io.vercel.app/api/badge?title=refactor(config)%3A%20replace%20get_empty_str_list%20with%20CONSTANT.copy%20in%20ParquetAndInfoConfig%20(%231522)%20&repo=huggingface%2Fdataset-viewer&number=3219&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/dataset-viewer/pull/3219)
+
+[![test: add unit tests for get_previous_step_or_raise (#1908) ](https://pr-req-io.vercel.app/api/badge?title=test%3A%20add%20unit%20tests%20for%20get_previous_step_or_raise%20(%231908)%20&repo=huggingface%2Fdataset-viewer&number=3218&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/dataset-viewer/pull/3218)
+
+[![refactor(tests): use HfApi.update_repo_settings to simplify gated dataset test setup ](https://pr-req-io.vercel.app/api/badge?title=refactor(tests)%3A%20use%20HfApi.update_repo_settings%20to%20simplify%20gated%20dataset%20test%20setup%20&repo=huggingface%2Fdataset-viewer&number=3206&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/dataset-viewer/pull/3206)
+
+[![Fix misleading add_column() usage example in docstring](https://pr-req-io.vercel.app/api/badge?title=Fix%20misleading%20add_column()%20usage%20example%20in%20docstring&repo=huggingface%2Fdatasets&number=7648&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/datasets/pull/7648)
+
+[![fix: raise error in FolderBasedBuilder when data_dir and data_files are missing ](https://pr-req-io.vercel.app/api/badge?title=fix%3A%20raise%20error%20in%20FolderBasedBuilder%20when%20data_dir%20and%20data_files%20are%20missing%20&repo=huggingface%2Fdatasets&number=7623&status=MERGED&author=ArjunJagdale&theme=modern)](https://github.com/huggingface/datasets/pull/7623)
+
 
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunJagdale&show_icons=true&theme=tokyonight&hide=stars,prs_reviewed,issues,contribs,discussions,followers&custom_title=Arjun+Jagdale's+GitHub+Stats)](https://github.com/ArjunJagdale)
