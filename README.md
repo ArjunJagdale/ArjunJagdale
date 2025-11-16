@@ -13,14 +13,14 @@
 
 ## 👋 About Me
 
-**Turning research into production-ready ML systems.** I'm an AI engineer who codes at the intersection of deep learning research and production engineering — building everything from anti-spoofing CNNs to parameter-efficient transformers, while actively maintaining core Hugging Face libraries.
+**Turning research into production-ready ML systems.** I'm an AI engineer who codes at the intersection of deep learning research and production engineering — building everything from anti-spoofing CNNs to parameter-efficient transformers, while actively contributing to core Hugging Face libraries.
 
 ```python
 class ArjunJagdale:
     def __init__(self):
         self.role = "AI Engineer & Open Source Contributor"
         self.focus_areas = ["Deep Learning", "Computer Vision", "NLP", "MLOps"]
-        self.current_work = "Maintaining Hugging Face core libraries"
+        self.current_work = "Contributing to Hugging Face core libraries"
         self.interests = ["RAG Systems", "Model Compression", "Cloud-Native ML"]
     
     def get_expertise(self):
@@ -36,7 +36,7 @@ class ArjunJagdale:
 
 ## 🔥 What I'm Working On
 
-- 🚀 **Maintaining Hugging Face** — datasets & dataset-viewer libraries (7 merged PRs)
+- 🚀 **Contributing to Hugging Face** — datasets & dataset-viewer libraries (7 merged PRs)
 - 🧠 **Research** — Published paper on Retrieval-Augmented Systems with Dynamic Learning
 - 🛠️ **Building** — Production ML pipelines with real-time inference and GPU optimization
 - 📚 **Learning** — Parameter-efficient methods, vision-language models, cloud-native deployments
